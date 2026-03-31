@@ -1,0 +1,17 @@
+src
+`-- net
+    `-- micode
+        `-- notes
+            |-- data
+            |   |-- Notes.java
+            |   |-- NotesDatabaseHelper.java
+            |   `-- NotesProvider.java
+            |-- model
+            |   |-- Note.java
+            |   `-- WorkingNote.java
+            |-- ui
+            |   |-- AlarmReceiver.java
+            |   |-- NoteEditActivity.java
+            |   `-- NotesListActivity.java
+            `-- widget
+                `-- NoteWidgetProvider.java
